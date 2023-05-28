@@ -1,2 +1,11 @@
-# <h1> h1 heading <h2> h2 heading <h3> h3 heading <h4> h4 heading <h5> h5 heading   <h6> h6 heading
-  ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+# Adding an image 
+  ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) 
+  ######  image of yaktocat
+  
+ # eg: code 
+ ```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+  
